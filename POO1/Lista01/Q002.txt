@@ -1,0 +1,5 @@
+1 - OpenCV é um framework desenvolvido pela intel, em 2000, usado para desenvolvimento de aplicações na área de visão computacional.
+2 - Flask é um framework, onde seu principal objetivo é prover um modelo simples para desenvolvimento web, ao mesmo tempo que tem  a flexibilidade no uso de Python.
+3 - Tensorflow é um framework, de código aberto para machine learning.
+4 - Giotto é um framework, que permite que o programador trabalhe do zero, focando mais nas funcionalidades e implantando junto com o front-end.
+5 - Falcon é um framework, que de maneira fácil cria APIs e códgio no back-end.

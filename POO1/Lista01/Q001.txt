@@ -1,0 +1,3 @@
+Uma linguagem Compilada é uma linguagem que a maquina traduz o programa ao executar e uma linguagem interpretada é quando se precisa de um interpretador para executar o código.
+A diferença entre elas é que uma é traduzida ao executar e a outra precisa de um interpretador.
+Python é uma linguagem interpretada.
